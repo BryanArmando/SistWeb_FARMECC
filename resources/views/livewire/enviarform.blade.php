@@ -17,7 +17,7 @@
       </div>
       <br>
       <button type="submit" class="  btn btn-dark btn-block">Enviar</button>
-      <input type="hidden" name="_next" value="http://localhost:8000">
+      <input type="hidden" name="_next" value="http://web-farmecc.herokuapp.com/password/reset">
       <input type="hidden" name="_captcha" value="false">
     </form>
 </div>
