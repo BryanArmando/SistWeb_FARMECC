@@ -1,0 +1,190 @@
+:root{
+    --width: 300px;
+    --bgcolor:#530DE9;
+
+    --width-collapsed:50px;
+    --hovercolor: rgb(23,23,23);
+    --padding: 10px;
+}
+body{
+    padding: 0;
+    margin: 0;
+    margin-left: var(--width-collapsed);
+}
+.body-expanded{
+    margin-left: var(--width);
+}
+#sidemenu{
+    background-color: var(--bgcolor);
+    color: white;
+    position: fixed;
+    height: 100%;
+    left: 0;
+    top: 0;
+    overflow: scroll;
+    /*ocultar ancho de barra de desplazamiento para firefox*/
+    overflow-x: hidden;
+    overflow-y: auto;
+
+    scrollbar-width: thin ;
+    scrollbar-color: rgb(32, 70, 192) rgba(255, 255, 255, 0.767);
+}
+
+
+/*ocultar ancho de barra de desplazamiento para chrome*/
+#sidemenu::-webkit-scrollbar {
+    display: none;
+}
+
+#sidemenu a{
+    color: white;
+    text-decoration: none;
+}
+
+/*header*/
+#sidemenu #header{
+    box-sizing: border-box;
+
+}
+#sidemenu #header #title{
+    box-sizing: border-box;
+    overflow: hidden;
+}
+#sidemenu #header #title, #sidemenu #header #menu-btn{
+    vertical-align: middle;
+}
+#sidemenu #header #menu-btn{
+    display: inline-block;
+}
+#sidemenu #header #menu-btn{
+    cursor: pointer;
+    padding: 10px;
+    width: var(--width-collapsed);
+    box-sizing: border-box;
+}
+
+#sidemenu #header #menu-btn:hover{
+    background-color: var(--hovercolor);
+}
+#sidemenu #header #menu-btn .btn-hamburguer{
+    background-color: #fff;
+    width: 100%;
+    height: 2px;
+    margin: 5px 0;
+}
+
+/*perfil*/
+#sidemenu #profile{
+    border-bottom: solid 1px var(--hovercolor);
+    padding: var(--padding) 0;
+    text-align: center;
+}
+#sidemenu #profile #photo{
+    box-sizing: border-box;
+    padding: var(--padding);
+    margin: 0 auto;
+
+}
+#sidemenu #profile #photo img{
+    border-radius: 50%;
+}
+#sidemenu #profile #photo, #sidemenu #profile #name{
+    font-size: 24px;
+    padding: var(--padding) 0;
+    overflow: hidden;
+}
+
+/*items*/
+#sidemenu #menu-item{
+    overflow: hidden;
+    
+}
+#sidemenu #menu-item .item{
+    width: var(--width);
+}
+#sidemenu #menu-item .item .icon{
+    display: inline-block;
+}
+#sidemenu #menu-item .item .title{
+    font-size: 14px;
+    vertical-align: middle;
+    overflow: hidden;
+    display: inline-block;
+}
+#sidemenu #menu-item .item a{
+    display: block;
+}
+#sidemenu #menu-item .item a:hover{
+    background-color: var(--hovercolor);
+}
+#sidemenu #menu-item  .item .icon{
+    box-sizing: border-box;
+    padding: var(--padding);
+    width: var(--width-collapsed);
+}
+
+#sidemenu #menu-item .item .icon img{
+    width: 100%;
+}
+#sidemenu #menu-item .item .title{
+    padding: var(--padding) 0;
+
+}
+#sidemenu #menu-item .item .separator{
+    height: 1px;
+    border-bottom: solid 1px var(--hovercolor);
+    margin: 15px 0;
+}
+.menu-expanded{
+    width: var(--width);
+    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+.menu-expanded #header #title{
+    display: inline-block;
+    width: calc(100%-50%);
+    margin-right: -5px;
+    padding: var(--padding);
+}
+
+
+
+.menu-expanded #header #title span{
+    width: calc(var(--width) - var(--width-collapsed) - 5px);
+    overflow: hidden;
+    display: inline-block;
+}
+.menu-expanded #profile #photo{
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    
+}
+.menu-expanded #profile #name{
+    width: 100%;
+}
+.menu-collapsed{
+    width: var(--width-collapsed);
+}
+.menu-collapsed #header #title{
+    width: 0;
+    height: 0;
+    padding: 0;
+    margin: 0;
+}
+.menu-collapsed #profile #name{
+    display: none;
+}
+.menu-collapsed .item{
+    width: 100px;
+}
+
+figcaption {
+    display:none; 
+    transition: all .5s;
+}
+
+
+
+
+
