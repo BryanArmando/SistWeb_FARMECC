@@ -39,7 +39,7 @@ class Reporte extends Component
 
     }
     public function fecha(){
-      return redirect('https://farmecc.herokuapp.com/api/private/fechasPDF?fecha1='.$this->fechaini.'&fecha2='.$this->fechafin);
+      return redirect('https://farmecc.herokuapp.com/api/public/fechasPDF?fecha1='.$this->fechaini.'&fecha2='.$this->fechafin);
     }
 
     public function fechasucur(){
