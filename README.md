@@ -1,4 +1,4 @@
-![imagen](https://user-images.githubusercontent.com/58041267/184558093-11240239-a4ca-473b-9d3d-0074dc4baaae.png)
+![imagen](https://user-images.githubusercontent.com/58041267/184558120-21f33d9d-6d88-487b-879f-7a7eb8b2c3b7.png)
 
 <p align="center">
 <a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
