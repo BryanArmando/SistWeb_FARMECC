@@ -2,13 +2,18 @@
 
 ![imagen](https://user-images.githubusercontent.com/58041267/184558340-5a5ad2a7-6578-44fb-be0c-49e7da7a3756.png)
 
-## **Carrera:** Desarrollo de Software
+## Carrera: Desarrollo de Software
 
 
 > ## **Estudiante:** Diana Katherine Almeida Anchatuña
 
-> ## [@AlmDiana](https://github.com/AlmDiana)
+> ## Perfil: [@AlmDiana](https://github.com/AlmDiana)
 
+## Documentación:
+```
+[Informe Técnico](https://github.com/AlmDiana)
+[Manual de usuario](https://github.com/AlmDiana)
+```
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
