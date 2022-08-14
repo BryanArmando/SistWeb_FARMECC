@@ -1,17 +1,11 @@
-# Trabajo de Integración Curricular: 
+# **Trabajo de Integración Curricular:** 
 
 ![imagen](https://user-images.githubusercontent.com/58041267/184558340-5a5ad2a7-6578-44fb-be0c-49e7da7a3756.png)
 
+## **Carrera:** Desarrollo de Software
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+**Estudiante:** Diana Katherine Almeida Anchatuña
 
 Laravel is accessible, powerful, and provides tools required for large, robust applications.
 
