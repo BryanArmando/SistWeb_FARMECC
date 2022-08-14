@@ -1,4 +1,4 @@
-## Trabajo de Integración Curricular: Desarrollo de un sistema web para la gestión del inventario de la cadena de Farmacias FARMECC
+## Trabajo de Integración Curricular: Desarrollo de un sistema web para la gestión del inventario de la cadena de Farmacias ![imagen](https://user-images.githubusercontent.com/58041267/184558267-41dd8d2c-1343-47cc-8ed0-d216a4872dbd.png)
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
 
