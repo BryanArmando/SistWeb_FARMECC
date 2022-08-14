@@ -48,7 +48,7 @@ Con ello se presentará un mensaje como el siguiente:
 Laravel development server started on http://localhost:8000/
 ```
 El proyecto se visualiza ingresando al link mencionado o puede dar click 
-[Aquí](http://localhost:8000/) para abrir directamente.
+[aquí](http://localhost:8000/) para abrir directamente.
 
 
 
