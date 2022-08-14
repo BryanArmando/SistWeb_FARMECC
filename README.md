@@ -5,14 +5,14 @@
 ## Carrera: Desarrollo de Software
 
 
-> ## **Estudiante:** Diana Katherine Almeida Anchatuña
+> ######  **Estudiante:** Diana Katherine Almeida Anchatuña
 
-> ## Perfil: [@AlmDiana](https://github.com/AlmDiana)
+> ######  Perfil: [@AlmDiana](https://github.com/AlmDiana)
 
 ## Documentación:
-> ## [Informe Técnico](https://github.com/AlmDiana)
+> ######  [Informe Técnico](https://github.com/AlmDiana)
 
-> ## [Manual de usuario](https://github.com/AlmDiana)
+> ######  [Manual de usuario](https://github.com/AlmDiana)
 ## Learning Laravel
 
 Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
