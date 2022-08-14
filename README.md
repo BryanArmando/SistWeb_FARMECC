@@ -7,7 +7,7 @@
 
 **Estudiante:** Diana Katherine Almeida Anchatuña
 
-Laravel is accessible, powerful, and provides tools required for large, robust applications.
+> @AlmDiana
 
 ## Learning Laravel
 
