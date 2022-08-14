@@ -5,9 +5,9 @@
 ## **Carrera:** Desarrollo de Software
 
 
-**Estudiante:** Diana Katherine Almeida Anchatuña
+> ## **Estudiante:** Diana Katherine Almeida Anchatuña
 
-> @AlmDiana
+> ## [@AlmDiana](https://github.com/AlmDiana)
 
 ## Learning Laravel
 
