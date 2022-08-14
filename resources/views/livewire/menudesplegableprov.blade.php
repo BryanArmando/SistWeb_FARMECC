@@ -3,7 +3,7 @@
         <form style="margin-left:300px;margin-right:300px;">
             <div class="px-4 pb-4 sm:p-6 sm:pb-4 columna2" style="border-radius:25px">
                 <p style="font-size: 22px; color:aliceblue">
-                    <i class="fa-solid fa-triangle-exclamation" style="font-size: 30px"></i> ¿Está seguro que desea eliminar esta sucursal?
+                    <i class="fa-solid fa-triangle-exclamation" style="font-size: 30px"></i> ¿Está seguro que desea eliminar este proveedor?
                 </p>
                 <div class="columna2 px-4 py-3 sm:px-6 sm:flex sm:flex-row-reverse justify-content-center">
                     <span class="flex rounded-md shadow-sm sm:ml-3 sm:w-auto">

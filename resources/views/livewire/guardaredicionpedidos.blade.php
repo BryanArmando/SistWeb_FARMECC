@@ -10,7 +10,7 @@
             <div class="inline-block align-bottom bg-white rounded-lg text-left overflow-hidden shadow-xl transform transition-all sm:my-8 sm:align-middle sm:max-w-lg sm:w-full" role="dialog" aria-modal="true" aria-labelledby="modal-headline">    
                 <form>
                     <div class="backedit px-4 pb-4 sm:p-6 sm:pb-4">
-                        <p class="p-3 text-white font-bold text-center" style="font-size:25px"><i class="fa-solid fa-file-pen" style="font-size:30px; padding-right:15px"></i>Editar sucursal</p>
+                        <p class="p-3 text-white font-bold text-center" style="font-size:25px"><i class="fa-solid fa-file-pen" style="font-size:30px; padding-right:15px"></i>Editar pedido</p>
                         <div class="mb-4">
                             <label for="nombre" class="block text-white text-sm font-bold mb-2">Nombre de proveedor:</label>
                             <!-- SELECTED DE SUCURSALES!-->
