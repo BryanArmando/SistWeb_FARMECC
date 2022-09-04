@@ -12,11 +12,11 @@
 ## Documentación:
 > ######  [Informe Técnico](https://github.com/AlmDiana)
 
-> ######  [Manual de usuario](https://github.com/AlmDiana)
+> ######  [Manual de usuario](https://youtu.be/v-SxqoxMKGE)
 
 ## Accesso al sistema web de FARMECC en producción:
 
-> ######  [Web FARMECC](http://web-farmecc.herokuapp.com/)
+> ######  [Web FARMECC](https://web-farmecc.herokuapp.com/)
 
 ## Instalación del Sistema Web de FARMECC (local):
 
